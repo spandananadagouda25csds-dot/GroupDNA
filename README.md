@@ -1,0 +1,2 @@
+# GroupDNA
+GroupDNA-Minor project
